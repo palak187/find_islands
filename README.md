@@ -1,0 +1,1 @@
+there are green and blue square blocks where blue blocks represent sea and green blocks represent land. The area covered by one green block is called an island. This program finds the number of islands in a given map
